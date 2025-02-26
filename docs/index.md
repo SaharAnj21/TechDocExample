@@ -2,9 +2,7 @@
 
 ---
 
-A DOC EXAMPLE FOR TESTING CHANGES IN GIT
-
-test of lower case 
+IT WAS EDITED
 
 ---
 
